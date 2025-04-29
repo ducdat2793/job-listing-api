@@ -42,6 +42,9 @@ Authentication is handled using **JWT**:
 1. **Clone the repository**
  ```bash
  git clone https://github.com/ducdat2793/job-listing-api.git
+```
+2. **Run project**
+```
  cd job-listing-api
  mvn spring-boot:run
 ```
